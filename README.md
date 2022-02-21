@@ -1,2 +1,2 @@
 # house-price-exploration
-Exploration of the kaggle House Price dataset and a failed atempt at creating a predictive model.
+Data exploration of the kaggle House Price dataset and a failed atempt at creating a predictive model.
